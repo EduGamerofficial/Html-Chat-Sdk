@@ -227,3 +227,4 @@ Recipe Notes:
 * To use a recipe, copy the recipe from the src to the theme folder you are working in (if you are just using the individual themes)
 * If you want the recipes to work on the popup, you must also include the file above on the popup.html under each theme.
 
+[![Run on Repl.it](https://repl.it/badge/github/LogMeIn-BoldChat/Html-Chat-Sdk)](https://repl.it/github/LogMeIn-BoldChat/Html-Chat-Sdk)
